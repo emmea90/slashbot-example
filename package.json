@@ -16,6 +16,7 @@
     "bot"
   ],
   "dependencies": {
+    "jarvis": "0.0.1",
     "slashbot": "0.1.0"
   },
   "author": "Jesse Ditson <jesse.ditson@gmail.com>",
