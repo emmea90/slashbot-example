@@ -17,7 +17,8 @@
   ],
   "dependencies": {
     "jarvis": "0.0.1",
-    "slashbot": "0.1.0"
+    "slashbot": "0.1.0",
+    "slashbot-clever": "^1.0.0"
   },
   "author": "Jesse Ditson <jesse.ditson@gmail.com>",
   "license": "ISC",
