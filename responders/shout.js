@@ -8,7 +8,7 @@ var shout = function(message,callback){
 	var test = Math.random();
     if(test < 0.5) {
   		callback(null, message.replace(shoutPattern,'').toUpperCase())
-  	else {
+  	} else {
   		callback(null,'non sono il tuo schiavo')
   	}
 }
