@@ -5,7 +5,7 @@ var slashbot = require('slashbot')
 slashbot({
   name : 'slashbot',
   responders : [
-    './responders/shout'
+    './responders/shout',
     './responders/search'
   ]
 },function(err){
