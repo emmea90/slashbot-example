@@ -1,5 +1,5 @@
 
-var shoutPattern = /^jarvis urlami/i
+var shoutPattern = /^urlami/i
 
 /**
  * A simple responder. Listens for "shout <phrase>", and shouts it back.
