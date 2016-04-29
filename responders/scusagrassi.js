@@ -31,7 +31,7 @@ var scusagrassi = function(message,callback){
 		shuffle(object);
 		shuffle(locus);
 		var response = subject[0] + ' ' + action[0] + ' ' + object[0] + ' ' + locus[0]
-		callback(response, "Error");
+		callback(null, response);
 	}
 	catch(err) {
 		callback(null, "Error");
