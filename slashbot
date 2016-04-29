@@ -7,7 +7,9 @@ slashbot({
   responders : [
     './responders/shout',
     './responders/search',
-    './responders/choose'
+    './responders/choose',
+    './responders/scusagrassi',
+    './responders/cristone'
   ]
 },function(err){
   if(err) throw err
