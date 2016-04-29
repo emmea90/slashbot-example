@@ -1,8 +1,8 @@
 
 var shoutPattern = /^cristone/i
 
-var subject = ['Dio', 'Cristo', 'Giuseppe', 'San Pietro', 'San Paolo'];
-var object = ['cane', 'porco', 'maiale', 'coniglio', 'canguro', 'ornitorinco', 'formichiere', 'pecora', 'montone', 'agnello', 'gatto', 'iscariota', 'Palma'];
+var subject = ['Dio', 'Cristo', 'Giuseppe', 'San Pietro', 'San Paolo', 'Dio', 'Dio', 'Dio', 'Dio', 'Jahve', 'Allah', 'Buddha', 'Siddharta'];
+var object = ['cane', 'porco', 'maiale', 'coniglio', 'canguro', 'ornitorinco', 'formichiere', 'pecora', 'montone', 'agnello', 'gatto', 'iscariota', 'Palma', 'telefono', 'a tre dita', 'Protappo', 'Carota', 'suino', 'ovino', 'di Cerro Veronese', 'stupratore', 'juventino', 'ladro', 'abruzzese'];
 
 /**
  * Shuffles array in place.
