@@ -8,7 +8,8 @@ slashbot({
     './responders/shout',
     './responders/search',
     './responders/choose',
-    './responders/scusagrassi'
+    './responders/scusagrassi',
+    './responders/cristone'
   ]
 },function(err){
   if(err) throw err
