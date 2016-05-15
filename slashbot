@@ -9,7 +9,8 @@ slashbot({
     './responders/search',
     './responders/choose',
     './responders/scusagrassi',
-    './responders/cristone'
+    './responders/cristone',
+    './responders/dice'
   ]
 },function(err){
   if(err) throw err
